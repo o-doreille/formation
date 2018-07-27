@@ -26,9 +26,6 @@ class helloController
 
     }
 
-    public function add($test){
 
-
-    }
 
 }
