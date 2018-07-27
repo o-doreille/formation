@@ -22,6 +22,13 @@ class helloController
      */
     public function hello(){
 
+        $test="ma variable test";
 
     }
+
+    public function add($test){
+
+
+    }
+
 }
