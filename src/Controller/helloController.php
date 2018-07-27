@@ -23,7 +23,7 @@ class helloController
     public function hello(){
 
         $test="ma variable test";
-
+        echo $test;
     }
 
 
